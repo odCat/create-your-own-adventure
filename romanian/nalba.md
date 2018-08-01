@@ -1,66 +1,66 @@
-Te trezesti intr-o dimineatza si patul este facut din nalbe. 
+Te trezești într-o dimineața și patul este facut din nalbe. 
 Ce faci?
 
-[Il chemi pe Ginel](Ginel/ginel.md)
+[Îl chemi pe Ginel](Ginel/ginel.md)
 
-[Te apuci sa faci un foc](foc/faci-foc.md)
+[Te apuci să faci un foc](foc/faci-foc.md)
 
 [Te culci la loc](somn/somn.md)
 
-Cand ii gata focu o suni pe Ginuta. Abea astepti sa-i dai si ei nalbe.
-Sti tu ca ii plac mult de tot nalbele. Asa ca atunci cand ajunge
-Va dati impreuna capat pana ramaneti fara... pat.
+Când îi gata focu o suni pe Ginuța. Abea aștepți să-i dai și ei nalbe.
+Ști tu ca îi plac mult de tot nalbele. Așa ca atunci când ajunge
+Vă dați împreuna capăt până rămaneți fară... pat.
 
-Dupa ce mancati voi pana dimneata, de vi se umple burtile o apuca pe Gina si striga:
+După ce mâncați voi până dimneața, de vi se umple burtile o apucă pe Gina și strigă:
 
-- Auzi mah sti ce m-am gandit?
+- Auzi mă ști ce m-am gândit?
 
 - Ce ?
-- [Sa mergem in padurea violet](padurea_violet/padurea_violet.md)
+- [Să mergem în pădurea violet](padurea_violet/padurea_violet.md)
 
-Dupa ce va intoarceti din padurea violet, obositi, vreti sa va culcati si realizati
-ca nu aveti pat.. asa ca va intindeti pe o plapuma, pe jos.. Adormiti gandindu- va
+După ce vă întoarceți din pădurea violet, obosiți, vreți să vă culcați și realizați
+că nu aveți pat.. așa că vă întindeți pe o plapumă, pe jos.. Adormiți gândindu-vă
 la patul care nu mai este...
 
-[Dimineata urmatoare, cand va treziti..](ziua_urmatoare/ziua_urmatoare.md)
+[Dimineața urmatoare, când vă treziți..](ziua_urmatoare/ziua_urmatoare.md)
 
-Va tot intrebati cum de a reaparut patul de nalbe.
+Vă tot intrebați cum de a reaparut patul de nalbe.
 
-[Cand deodata...](Ginel/ginel.md)
+[Când deodată...](Ginel/ginel.md)
 
-Ginel cade pe ganduri, ca baba pe scanduri... Incearca sa-si aminteasca ce a fumat, 
-cat sa fi costat compania Ginutei, sau de ce nu a avut noroc in viata.
-Ginel nu coreleaza lipsa repetata de la scoala, cu lipsurile din prezent.
-Ginuta il priveste o vreme, asa cazut pe ganduri, apoi il intreaba:
+Ginel cade pe gânduri, ca baba pe scanduri... Încearcă să-și aminteasca ce a fumat, 
+cât să fi costat compania Ginuței, sau de ce nu a avut noroc in viața.
+Ginel nu corelează lipsa repetată de la școală, cu lipsurile din prezent.
+Ginuța îl privește o vreme, așa căzut pe gânduri, apoi îl întreabă:
  - Auzi, ai cumva un Orbit ?
 
--N-am, dar putem sa facem un [ceai de nalbe](ceai_de_nalbe/ceai_de_nalbe.md). Ar trebui sa 
-aiba gust bun, putem mari putin doza, doar avem un pat de nalbe, sa vedem ce se intampla. 
-Se pusera ei pe baut ceai de nalba cand deodata... 
+-N-am, dar putem să facem un [ceai de nalbe](ceai_de_nalbe/ceai_de_nalbe.md). Ar trebui să 
+aiba gust bun, putem mări puțin doza, doar avem un pat de nalbe, să vedem ce se intampla. 
+Se puseră ei pe băut ceai de nalba când deodata... 
 
-Aparu, [Zana Albastra](zana_albastra/cum_arata_zana.md):
+Apăru, [Zana Albastră](zana_albastra/cum_arata_zana.md):
 
-- Dragii mei, nu mai beti ceai de nalbe! Am nevoie de toate nalbele de 
-aici pentru o [potiune fermecata](potiune_fermecata/potiune.md).
+- Dragii mei, nu mai beți ceai de nalbe! Am nevoie de toate nalbele de 
+aici pentru o [poțiune fermecată](potiune_fermecata/potiune.md).
 
-Sigur, Zana albastra, spuse Ginel.
-Si ii dadu zanei nalbele, iar zana se puse pe treaba, sa faca potiunea cea fermecata...
+Sigur, Zană albastră, spuse Ginel.
+Și îi dădu zânei nalbele, iar zâna se puse pe treaba, să facă poțiunea cea fermecată...
 
-Plictisita, Gina pleca sa-si cumpere Orbit.
+Plictisita, Gina plecă să-și cumpere Orbit.
 
-Si merse, merse, cale lunga pana la [magazinul cel mare](magazin/oferta-speciala.md).
+Și merse, merse, cale lungă până la [magazinul cel mare](magazin/oferta-speciala.md).
 
-Ginel continua sa se holbeze la zana cand, dintr-odata, puhhh! Un nor rosu
-cuprinse zana de la genunchi pana peste cap, asa incat inca i se mai vedeau
+Ginel continuă să se holbeze la zană când, dintr-odată, puhhh! Un nor roșu
+cuprinse zâna de la genunchi până peste cap, așa încât încă i se mai vedeau
 pantofi albastrii...
 
-Bun, bun, buuun! zise zana. Stiam eu ca ma pricep la "d-astea" :-D
+Bun, bun, buuun! zise zana. Știam eu ca ma pricep la "d-astea" :-D
 
-Ihi, mormai Ginel, cu gura cascata si cu ochii fixati undeva, adanc.
+Îhî, mormăi Ginel, cu gura căscată și cu ochii fixați undeva, adânc.
 
-Haide, ia si tu o gura, ca imi esti simpatic.
+Haide, ia și tu o gura, că îmi ești simpatic.
 
-Pai, se puse pe ganduri Ginel, [sa beau](potiune_fermecata/beau/beau.md)
+Păi, se puse pe gânduri Ginel, [să beau](potiune_fermecata/beau/beau.md)
 
 sau...
 
